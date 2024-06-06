@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](www.linkedin.com/in/victor-rodrigues-256a33177)
 
-![Victor Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=victorrodriguessantos&show_icons=true&theme=radical)<img align="right" style="width: 400px;" src="https://i.pinimg.com/originals/48/71/a0/4871a06594edd9e5e1bb5f0fab7e362a.gif"/>
+![Victor Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=victorrodriguessantos&show_icons=true&theme=radical)<img align="right" style="width: 300px;" src="https://i.pinimg.com/originals/48/71/a0/4871a06594edd9e5e1bb5f0fab7e362a.gif"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrodriguessantos&theme=blue-green)
 
