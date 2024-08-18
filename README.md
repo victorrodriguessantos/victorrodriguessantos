@@ -8,10 +8,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/victor-rodrigues-256a33177" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://wa.link/pgiad1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="30" alt="whatsapp logo"  />
   </a>
 </div>
 
@@ -45,7 +45,8 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://animesher.com/orig/0/66/666/6665/animesher.com_cute-kawaii-usagi-666531.gif"  />
+  <img height="250" src="https://25.media.tumblr.com/c80bab396e436932bde893c8b2fd96a8/tumblr_mh2yciawxj1qf9mevo1_500.gif"  />
+  <img height="250" style="" src="https://i.pinimg.com/originals/48/71/a0/4871a06594edd9e5e1bb5f0fab7e362a.gif"/>
 </div>
 
 ###
